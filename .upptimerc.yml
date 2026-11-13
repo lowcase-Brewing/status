@@ -7,5 +7,5 @@ sites:
     url: https://lowcasebrewing.com
 
 status-website:
-  baseUrl: /status
+  cname: status.lowcasebrewing.com
   name: lowcase Brewing Status
