@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lowcasebrewwing.com.ico",
     "slug": "lowcase-brewing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.70%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-13": 0
+    }
   }
 ]
